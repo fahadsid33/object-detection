@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+models/*.pt
+data/*.db
+evidence/*
+!evidence/.gitkeep
+*.mp4
+*.avi
+*.mov
+*.mkv
